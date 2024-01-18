@@ -1,0 +1,15 @@
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\bin\Debug\net7.0\FactoryMethod_Beer.exe
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\bin\Debug\net7.0\FactoryMethod_Beer.deps.json
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\bin\Debug\net7.0\FactoryMethod_Beer.runtimeconfig.json
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\bin\Debug\net7.0\FactoryMethod_Beer.dll
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\bin\Debug\net7.0\FactoryMethod_Beer.pdb
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.csproj.AssemblyReference.cache
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.AssemblyInfoInputs.cache
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.AssemblyInfo.cs
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.csproj.CoreCompileInputs.cache
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.dll
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\refint\FactoryMethod_Beer.dll
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.pdb
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\FactoryMethod_Beer.genruntimeconfig.cache
+F:\PATRONES DE DISEÑO\PatronesCreacionales\FACTORY_METHOD\FactoryMethod_Beer\obj\Debug\net7.0\ref\FactoryMethod_Beer.dll
